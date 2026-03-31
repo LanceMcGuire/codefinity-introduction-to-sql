@@ -1,0 +1,3 @@
+ select population
+from country
+order by population asc;
